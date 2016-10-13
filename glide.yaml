@@ -1,0 +1,5 @@
+package: github.com/kseo/prioqueue
+import:
+- package: github.com/golangplus/testing
+  subpackages:
+  - assert

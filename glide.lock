@@ -1,0 +1,8 @@
+hash: a62670408a32ce064de7f6433ec1dec358a761c917e03279b268a3969691399e
+updated: 2016-10-13T22:42:23.826563442+09:00
+imports:
+- name: github.com/golangplus/testing
+  version: 56d225dfade1dd7ba5ff9850e80c2c5a7595082e
+  subpackages:
+  - assert
+testImports: []

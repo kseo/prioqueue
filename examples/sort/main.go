@@ -1,11 +1,3 @@
-priority-queue
-==============
-Binary-heap based priority queue for Go. Elements are insrted using `Add`, and the
-maximum element is removed using `RemoveMax`, observed with `Peek`.
-
-## Example
-
-```go
 package main
 
 import (
@@ -41,4 +33,3 @@ func main() {
 	xs := []int{3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5, 9}
 	fmt.Printf("%v\n", sort(xs))
 }
-```
