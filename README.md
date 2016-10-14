@@ -1,5 +1,7 @@
 priority-queue
 ==============
+[![Build Status](https://travis-ci.org/kseo/prioqueue.svg?branch=master)](https://travis-ci.org/kseo/prioqueue)
+
 Binary-heap based priority queue for Go. Elements are insrted using `Add`, and the
 maximum element is removed using `RemoveMax`, observed with `Peek`.
 
